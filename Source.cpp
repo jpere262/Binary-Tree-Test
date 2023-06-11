@@ -435,7 +435,8 @@ void main()
 	Node* root = nullptr;
 
 	// Opens input text file
-	ifstream inputFile("c:\\temp\\input.txt");
+	//ifstream inputFile("c:\\temp\\input.txt");
+	ifstream inputFile("C:\\Users\\Junior\\Desktop\\input.txt");
 
 	// Reads through end of input text file
 	while (!inputFile.eof())
