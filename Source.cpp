@@ -436,7 +436,7 @@ void main()
 
 	// Opens input text file
 	//ifstream inputFile("c:\\temp\\input.txt");
-	ifstream inputFile("C:\\Users\\Junior\\Desktop\\input.txt");
+	ifstream inputFile("input.txt");
 
 	// Reads through end of input text file
 	while (!inputFile.eof())
